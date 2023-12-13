@@ -1,3 +1,4 @@
 This is chapter 3 ...
 the end of the happy plot
 changed to an even happier end
+with the option git config --global push.default matching
